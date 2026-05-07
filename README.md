@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working as  a research intern for the early detection of NeuroScience Disorders<br>I am currently completing to learning how to build my onw LLM with limited data<br>Open to collaborate on website based work, or Saas Projects<br>Always learning new stuff<br>Poet by heart
+I am currently working as  a research intern for the early detection of NeuroScience Disorders<br>I am currently completing to learning how to build my onw LLM with limited data<br>Open to collaborate on website based work, or Saas Projects<br>Always learning new stuff<br>Poet by heart, developer by profession
 
 
 ## 🌐 Socials:
